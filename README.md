@@ -1,6 +1,9 @@
 # Java - Object-Oriented Programming
 
-(https://cloud.githubusercontent.com/assets/15425071/19363998/08642d98-9195-11e6-98bd-17a08547c925.png) ![git-logo]
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![NetBeans](https://upload.wikimedia.org/wikipedia/commons/c/c9/NetBeans_IDE_Logo.png)
+![Java SDK](https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg)
 
 ## Object-Oriented Programming
 
@@ -12,4 +15,3 @@
 
 * Java SDK
 * NetBeans IDE
-
